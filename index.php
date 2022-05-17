@@ -1,3 +1,3 @@
 <?php
-    include('ui/screenHome.php');
+    include('ui/screenLogin.php');
 ?>
