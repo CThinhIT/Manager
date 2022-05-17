@@ -1,0 +1,51 @@
+.head-page {
+  background-color: #0178bb;
+  color: white;
+  height: 50px;
+}
+a:hover {
+  text-decoration: none;
+}
+#title {
+  padding-left: 25px;
+}
+.setting {
+  text-align: center;
+  color: wheat;
+  padding-top: 5%;
+}
+.option-setting {
+  background-color: black;
+  height: auto;
+}
+body {
+  background-color: #f6f7fb;
+}
+.op1 {
+  background: #4e54c8;
+  background: linear-gradient(to right, #4e54c8, #8f94fb);
+}
+.op2 {
+  background: #3e5151;
+  background: linear-gradient(to right, #3e5151, #decba4);
+}
+.op3 {
+  background: #11998e;
+  background: linear-gradient(to right, #11998e, #38ef7d);
+}
+.op4 {
+  background: #c94b4b;
+  background: linear-gradient(to right, #4b134f, #c94b4b);
+}
+.option {
+  margin-left: 5px;
+  margin-right: 5px;
+  max-width: 24%;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  color: white;
+}
+.display-op {
+  padding-top: 20px;
+}
